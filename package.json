@@ -7,6 +7,6 @@
   "author": "Aria Stewart <aredridel@dinhe.net>",
   "license": "BSD",
   "dependencies": {
-    "kademlia": "https://github.com/stbuehler/node-dht/archive/master.tar.gz",
+    "kademlia": "https://github.com/aredridel/kademlia/archive/master.tar.gz"
   }
 }
